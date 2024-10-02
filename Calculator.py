@@ -23,4 +23,4 @@ elif operator == "/":
     result = num1 / num2
 print("----------") # for decoration
 # print the result
-print (round(result, 5)) # round    make the max lenght of the result lenght shorter
+print (round(result, 5)) # "round" make the max lenght of the result lenght shorter
